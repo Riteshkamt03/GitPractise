@@ -1,7 +1,7 @@
 Creating a stored procedure with one parameter
 
 The following query returns a product list from the products table in the sample database:
-
+// for sure will do this steps:
 SELECT
     product_name,
     list_price
